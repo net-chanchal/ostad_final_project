@@ -1,5 +1,10 @@
 # Final Project | JobPulse
 
+### Final Assignment's Video
+
+https://drive.google.com/drive/folders/1Q3yLk6K1TWZPYFloHpdXurG1Qjwcm0ds?usp=sharing
+
+
 ### Project Setup
 Open the terminal and run the following commands:
 ```text
