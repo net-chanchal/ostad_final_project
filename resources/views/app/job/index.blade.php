@@ -144,7 +144,7 @@
                     </div>
 
                     <div class="sideitem pt-2">
-                        <h3>Job Role</h3>
+                        <h3>Education</h3>
                         @foreach($jobAttributes as $attribute)
                             @continue($attribute->type !== 'Education')
 
